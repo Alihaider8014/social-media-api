@@ -28,7 +28,7 @@ Node.js and npm MySQL
 ### Setup
 - Clone the repository:
 ```sh
-git clone https://github.com/yourusername/social-media-api.git 
+git clone https://github.com/Alihaider8014/social-media-api.git
 cd social-media-api
 ```
 
